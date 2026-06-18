@@ -1,4 +1,4 @@
-let apikey = "ecb6a458ce820d15f2c1b677435aa5ad";
+const apikey = config.Weather_apikey;
 
 let searchBtn = document.querySelector("#search-btn")
 let resultBox = document.querySelector("#result")
